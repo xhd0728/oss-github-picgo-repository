@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p-8gtCRp2lO6fqY-21o4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p-8gtCRp2lO6fqY-21o4-1" target="p-8gtCRp2lO6fqY-21o4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p-8gtCRp2lO6fqY-21o4-1" value="Base LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="100" y="225" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p-8gtCRp2lO6fqY-21o4-2" value="SFT (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cold Start)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="225" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
